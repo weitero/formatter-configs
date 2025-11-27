@@ -5,14 +5,13 @@
   "jsxSingleQuote": true,
   "overrides": [
     {
-      "files": ["*.html"],
+      "files": ["*.css", "*.js"],
       "options": {
-        "singleQuote": false
+        "singleQuote": true
       }
     }
   ],
   "proseWrap": "always",
   "quoteProps": "consistent",
-  "singleQuote": true,
   "vueIndentScriptAndStyle": true
 }
