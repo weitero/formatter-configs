@@ -1,7 +1,16 @@
 {
+  "$schema": "https://www.schemastore.org/prettierrc.json",
   "checkIgnorePragma": true,
   "experimentalOperatorPosition": "start",
   "jsxSingleQuote": true,
+  "overrides": [
+    {
+      "files": ["*.html"],
+      "options": {
+        "singleQuote": false
+      }
+    }
+  ],
   "proseWrap": "always",
   "quoteProps": "consistent",
   "singleQuote": true,
