@@ -27,7 +27,9 @@
   "html": {
     "formatter": {
       "enabled": true,
-      "indentStyle": "space"
+      "indentScriptAndStyle": true,
+      "indentStyle": "space",
+      "selfCloseVoidElements": "always"
     },
     "parser": {
       "interpolation": true
