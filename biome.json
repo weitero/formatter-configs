@@ -43,7 +43,7 @@
       "expand": "auto",
       "indentStyle": "space",
       "indentWidth": 2,
-      "jsxQuoteStyle": "double",
+      "jsxQuoteStyle": "single",
       "lineEnding": "lf",
       "lineWidth": 80,
       "operatorLinebreak": "before",
