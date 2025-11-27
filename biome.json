@@ -5,6 +5,17 @@
       "recommended": true
     }
   },
+  "css": {
+    "formatter": {
+      "enabled": true,
+      "indentStyle": "space",
+      "quoteStyle": "single"
+    },
+    "parser": {
+      "cssModules": true,
+      "tailwindDirectives": true
+    }
+  },
   "files": {
     "ignoreUnknown": true
   },
@@ -38,5 +49,5 @@
     "formatter": {
       "indentStyle": "space"
     }
-  },"css":{}
+  }
 }
