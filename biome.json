@@ -36,19 +36,10 @@
   },
   "javascript": {
     "formatter": {
-      "attributePosition": "auto",
-      "bracketSameLine": false,
-      "bracketSpacing": true,
-      "enabled": true,
-      "expand": "auto",
       "indentStyle": "space",
-      "indentWidth": 2,
       "jsxQuoteStyle": "single",
-      "lineEnding": "lf",
-      "lineWidth": 80,
       "operatorLinebreak": "before",
       "quoteStyle": "single",
-      "semicolons": "asNeeded",
       "trailingCommas": "es5"
     },
     "parser": {
