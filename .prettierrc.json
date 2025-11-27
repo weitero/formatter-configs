@@ -2,6 +2,8 @@
   "checkIgnorePragma": true,
   "experimentalOperatorPosition": "start",
   "jsxSingleQuote": true,
+  "proseWrap": "always",
   "quoteProps": "consistent",
-  "singleQuote": true,"proseWrap": "preserve"
+  "singleQuote": true,
+  "vueIndentScriptAndStyle": true
 }
