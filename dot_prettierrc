@@ -2,10 +2,9 @@
   "$schema": "https://www.schemastore.org/prettierrc.json",
   "checkIgnorePragma": true,
   "experimentalOperatorPosition": "start",
-  "jsxSingleQuote": true,
   "overrides": [
     {
-      "files": ["*.css", "*.js"],
+      "files": ["*.css", "*.js", "*.jsx"],
       "options": {
         "singleQuote": true
       }

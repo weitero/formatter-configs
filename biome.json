@@ -38,7 +38,6 @@
   "javascript": {
     "formatter": {
       "indentStyle": "space",
-      "jsxQuoteStyle": "single",
       "operatorLinebreak": "before",
       "quoteStyle": "single",
       "trailingCommas": "es5"
