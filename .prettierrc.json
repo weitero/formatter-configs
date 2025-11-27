@@ -1,6 +1,7 @@
 {
+  "checkIgnorePragma": true,
   "experimentalOperatorPosition": "start",
   "jsxSingleQuote": true,
   "quoteProps": "consistent",
-  "singleQuote": true
+  "singleQuote": true,"proseWrap": "preserve"
 }
