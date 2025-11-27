@@ -33,5 +33,10 @@
     "parser": {
       "jsxEverywhere": false
     }
+  },
+  "json": {
+    "formatter": {
+      "indentStyle": "space"
+    }
   }
 }
