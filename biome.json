@@ -49,6 +49,10 @@
   "json": {
     "formatter": {
       "indentStyle": "space"
+    },
+    "parser": {
+      "allowComments": true,
+      "allowTrailingCommas": true
     }
   }
 }
