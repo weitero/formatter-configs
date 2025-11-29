@@ -15,12 +15,6 @@ trim_trailing_whitespace = true
 ; Supported By A Limited Number of Editors
 max_line_length = 80
 
-[*.sh]
-binary_next_line = true
-indent_size = 2
-switch_case_indent = true
-tab_width = 2
-
 [*.{css,html,js,json,jsonc,jsx}]
 indent_size = 2
 tab_width = 2
@@ -32,3 +26,9 @@ quote_style = double
 space_after_comment_dash = true
 tab_width = 2
 trailing_table_separator = smart
+
+[*.sh]
+binary_next_line = true
+indent_size = 2
+switch_case_indent = true
+tab_width = 2
