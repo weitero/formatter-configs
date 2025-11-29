@@ -20,7 +20,9 @@ indent_size = 2
 switch_case_indent=true
 binary_next_line   = true
 
-
+[*.js]
+indent_size=2
+tab_width=2
 
 # see https://github.com/CppCXY/EmmyLuaCodeStyle
 [*.lua]
