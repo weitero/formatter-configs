@@ -39,6 +39,7 @@
     "formatter": {
       "indentStyle": "space",
       "operatorLinebreak": "before",
+      "quoteProperties": "preserve",
       "quoteStyle": "single",
       "trailingCommas": "es5"
     },
