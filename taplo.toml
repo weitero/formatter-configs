@@ -1,3 +1,7 @@
+[schema]
+enabled = true
+path = 'https://www.schemastore.org/api/json/catalog.json'
+
 [formatting]
 align_comments = false
 allowed_blank_lines = 1
