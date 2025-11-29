@@ -4,7 +4,11 @@
   "experimentalOperatorPosition": "start",
   "overrides": [
     {
-      "files": ["*.css", "*.js", "*.jsx"],
+      "files": [
+        "*.css",
+        "*.js",
+        "*.jsx"
+      ],
       "options": {
         "singleQuote": true
       }
