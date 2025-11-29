@@ -34,6 +34,9 @@
       "indentStyle": "space",
       "selfCloseVoidElements": "always"
     },
+    "linter": {
+      "enabled": false
+    },
     "parser": {
       "interpolation": true
     }
