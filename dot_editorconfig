@@ -19,7 +19,7 @@ max_line_length = 80
 indent_size = 2
 tab_width = 2
 
-# see https://github.com/CppCXY/EmmyLuaCodeStyle
+; see https://github.com/CppCXY/EmmyLuaCodeStyle
 [*.lua]
 indent_size = 2
 tab_width = 2
