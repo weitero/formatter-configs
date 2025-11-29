@@ -1,3 +1,5 @@
+#:schema https://www.schemastore.org/ruff.json
+
 # Exclude a variety of commonly ignored directories.
 exclude = [
   ".bzr",
