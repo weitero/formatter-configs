@@ -11,6 +11,9 @@
       "indentStyle": "space",
       "quoteStyle": "single"
     },
+    "linter": {
+      "enabled": false
+    },
     "parser": {
       "cssModules": true,
       "tailwindDirectives": true
@@ -53,6 +56,9 @@
   "json": {
     "formatter": {
       "indentStyle": "space"
+    },
+    "linter": {
+      "enabled": false
     },
     "parser": {
       "allowComments": true,
