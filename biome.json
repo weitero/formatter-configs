@@ -43,6 +43,9 @@
       "quoteStyle": "single",
       "trailingCommas": "es5"
     },
+    "linter": {
+      "enabled": false
+    },
     "parser": {
       "jsxEverywhere": false
     }
