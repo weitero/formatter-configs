@@ -54,5 +54,8 @@
       "allowComments": true,
       "allowTrailingCommas": true
     }
+  },
+  "linter": {
+    "enabled": false
   }
 }
