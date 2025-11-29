@@ -1,3 +1,5 @@
+#:schema https://github.com/posit-dev/air/releases/latest/download/air.schema.json
+
 [format]
 default-exclude = true
 default-table = true
