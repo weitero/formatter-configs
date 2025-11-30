@@ -9,4 +9,4 @@
 | `.prettierrc.json` | [![multi](https://skillicons.dev/icons?i=css,html,js,markdown,react)](https://skillicons.dev)     |
 |        `ruff.toml` | [![python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)                            |
 |      `stylua.toml` | [![lua](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)                              |
-|       `taplo.toml` |                                                                                                   |
+|       `taplo.toml` | TOML                                                                                              |
