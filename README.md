@@ -1,6 +1,6 @@
-# Code Formatter Configuration
+# Code Formatter Configuration Files
 
-| Configuration File | Language                                                                                          |
+| Configuration File | Language(s)                                                                                       |
 | -----------------: | :------------------------------------------------------------------------------------------------ |
 |    `_clang-format` | [![c_cpp](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)                          |
 |         `air.toml` | [![r](https://skillicons.dev/icons?i=r)](https://skillicons.dev)                                  |
