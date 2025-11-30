@@ -3,6 +3,7 @@
 ; top-most EditorConfig file
 root = true
 
+[*]
 ; Widely Supported by Editors
 charset = utf-8
 end_of_line = lf
