@@ -9,6 +9,7 @@
     "formatter": {
       "enabled": true,
       "indentStyle": "space",
+      "lineWidth": 120,
       "quoteStyle": "single"
     },
     "linter": {
@@ -24,6 +25,7 @@
   },
   "formatter": {
     "indentStyle": "space",
+    "lineWidth": 120,
     "useEditorconfig": true
   },
   "html": {
@@ -32,6 +34,7 @@
       "enabled": true,
       "indentScriptAndStyle": true,
       "indentStyle": "space",
+      "lineWidth": 120,
       "selfCloseVoidElements": "always"
     },
     "linter": {
@@ -44,6 +47,7 @@
   "javascript": {
     "formatter": {
       "indentStyle": "space",
+      "lineWidth": 120,
       "operatorLinebreak": "before",
       "quoteProperties": "preserve",
       "quoteStyle": "single",
@@ -58,7 +62,8 @@
   },
   "json": {
     "formatter": {
-      "indentStyle": "space"
+      "indentStyle": "space",
+      "lineWidth": 120
     },
     "linter": {
       "enabled": false

@@ -14,7 +14,7 @@ tab_width = 4
 trim_trailing_whitespace = true
 
 ; Supported By A Limited Number of Editors
-max_line_length = 80
+max_line_length = 120
 
 [*.{css,html,js,json,jsonc,jsx,vim,zsh}]
 indent_size = 2
