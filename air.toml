@@ -1,3 +1,5 @@
+# tombi: format.rules.table-keys-order = "version-sort"
+
 [format]
 default-exclude = true
 default-table = true

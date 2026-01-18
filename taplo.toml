@@ -1,3 +1,6 @@
+# tombi: format.rules.table-keys-order = "version-sort"
+#:tombi schema.strict = false
+
 [formatting]
 align_comments = false
 align_entries = false
@@ -11,7 +14,6 @@ compact_entries = false
 compact_inline_tables = false
 crlf = false
 indent_entries = false
-# indent_string =
 indent_tables = false
 inline_table_expand = true
 reorder_arrays = true
