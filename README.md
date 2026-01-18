@@ -10,3 +10,4 @@
 | `ruff.toml`        | [![python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)                            |
 | `stylua.toml`      | [![lua](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)                              |
 | `taplo.toml`       | TOML                                                                                              |
+| `tombi.toml`       | TOML                                                                                              |
