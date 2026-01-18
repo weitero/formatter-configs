@@ -1,0 +1,6 @@
+# tombi: format.rules.table-keys-order = "version-sort"
+
+[format]
+[format.rules]
+array-bracket-space-width = 1
+line-width = 120
