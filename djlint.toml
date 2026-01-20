@@ -1,0 +1,19 @@
+# tombi: format.rules.table-keys-order = "version-sort"
+
+blank_line_after_tag = "load,extends,include"
+blank_line_before_tag = "load,extends,include"
+close_void_tags = true
+format_attribute_template_tags = true
+format_css = true
+format_js = true
+ignore = "T003"
+indent = 2
+line_break_after_multiline_tag = true
+max_line_length = 120
+use_gitignore = true
+
+[css]
+indent_size = 2
+
+[js]
+indent_size = 2
