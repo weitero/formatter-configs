@@ -1,19 +1,20 @@
 # Code Formatter Configuration Files
 
-| Configuration File       | Language(s)                                                                                                  |
-| :----------------------- | :----------------------------------------------------------------------------------------------------------- |
-| `_clang-format`          | [![c_cpp](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)                                     |
-| `air.toml`               | [![r](https://skillicons.dev/icons?i=r)](https://skillicons.dev)                                             |
-| `biome.json`             | [![multi](https://skillicons.dev/icons?i=css,html,js,markdown,react)](https://skillicons.dev)                |
-| `dot_djlintrc`           | Jinja                                                                                                        |
-| `dot_editorconfig`       | [![bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)                                       |
-| `dot_prettierrc.json`    | AWK, Jinja, [![multi](https://skillicons.dev/icons?i=css,html,js,markdown,react,ts)](https://skillicons.dev) |
-| `dot_sql-formatter.json` | [![sql](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)                     |
-| `ruff.toml`              | [![python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)                                       |
-| `rustfmt.toml`           | [![rust](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)                                       |
-| `stylua.toml`            | [![lua](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)                                         |
-| `taplo.toml`             | TOML                                                                                                         |
-| `tombi.toml`             | TOML                                                                                                         |
+| Configuration File       | Language(s)                                                                                          |
+| :----------------------- | :--------------------------------------------------------------------------------------------------- |
+| `_clang-format`          | [![c_cpp](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)                             |
+| `air.toml`               | [![r](https://skillicons.dev/icons?i=r)](https://skillicons.dev)                                     |
+| `biome.json`             | [![multi](https://skillicons.dev/icons?i=css,html,js,markdown,react)](https://skillicons.dev)        |
+| `dot_djlintrc`           | ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black)      |
+| `dot_editorconfig`       | [![bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)                               |
+| `dot_prettierrc.json`    | AWK, ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) |
+|                          | [![multi](https://skillicons.dev/icons?i=css,html,js,markdown,react,ts)](https://skillicons.dev)     |
+| `dot_sql-formatter.json` | [![sql](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)             |
+| `ruff.toml`              | [![python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)                               |
+| `rustfmt.toml`           | [![rust](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)                               |
+| `stylua.toml`            | [![lua](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)                                 |
+| `taplo.toml`             | TOML                                                                                                 |
+| `tombi.toml`             | TOML                                                                                                 |
 
 ## Use Prettier (with plugins) in a local project
 
