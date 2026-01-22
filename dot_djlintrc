@@ -1,0 +1,30 @@
+{
+  "$schema": "https://www.schemastore.org/djlint.json",
+  "blank_line_after_tag": "load,extends,include",
+  "blank_line_before_tag": "load,extends,include",
+  "close_void_tags": true,
+  "css": {
+    "indent_size": 2
+  },
+  "custom_blocks": "",
+  "custom_html": "",
+  "format_attribute_template_tags": true,
+  "format_css": true,
+  "format_js": true,
+  "ignore": "T003",
+  "ignore_case": false,
+  "indent": 2,
+  "js": {
+    "indent_size": 2
+  },
+  "line_break_after_multiline_tag": true,
+  "max_attribute_length": 10,
+  "max_blank_lines": 1,
+  "max_line_length": 120,
+  "no_line_after_yaml": false,
+  "preserve_blank_lines": false,
+  "preserve_leading_space": false,
+  "profile": "jinja",
+  "require_pragma": false,
+  "use_gitignore": true
+}
