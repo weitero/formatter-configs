@@ -1,0 +1,9 @@
+# tombi: format.rules.table-keys-order = "version-sort"
+
+disable_all_formatting = false
+edition = "2024"
+hard_tabs = false
+match_block_trailing_comma = true
+max_width = 120
+tab_spaces = 4
+use_field_init_shorthand = true
