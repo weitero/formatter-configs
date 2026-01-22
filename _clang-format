@@ -1,5 +1,5 @@
 AccessModifierOffset: -4
-AllowShortIfStatementsOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: Never
 BasedOnStyle: LLVM
 BreakBeforeBraces: Allman
 ColumnLimit: 0
