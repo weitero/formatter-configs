@@ -2,21 +2,34 @@
   "$schema": "https://www.schemastore.org/prettierrc.json",
   "checkIgnorePragma": true,
   "experimentalOperatorPosition": "start",
+  "experimentalTernaries": true,
   "overrides": [
+    {
+      "files": [
+        "*.awk"
+      ],
+      "options": {
+        "tabWidth": 4
+      }
+    },
     {
       "files": [
         "*.css",
         "*.js",
-        "*.jsx"
+        "*.jsx",
+        "*.ts",
+        "*.tsx"
       ],
       "options": {
         "singleQuote": true
       }
     }
   ],
+  "plugins": [
+    "prettier-plugin-awk",
+    "prettier-plugin-jinja-template"
+  ],
   "printWidth": 120,
-  "proseWrap": "always",
   "quoteProps": "consistent",
-  "trailingComma": "es5",
   "vueIndentScriptAndStyle": true
 }
