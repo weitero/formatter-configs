@@ -1,39 +1,9 @@
-; EditorConfig is awesome: https://editorconfig.org
+# shfmt formats shell programs. If the only argument is a dash (-) or no arguments are given, standard input will be used. If a given path is a directory, all shell scripts found under that directory will be used.
+#
+# If any EditorConfig files are found, they will be used to apply formatting options. If any parser or printer flags are given to the tool, no EditorConfig formatting options will be used. A default like -i=0 can be used for this purpose.
 
-; top-most EditorConfig file
-root = true
-
-[*]
-; Widely Supported by Editors
-charset = utf-8
-end_of_line = lf
-indent_size = 4
-indent_style = space
-insert_final_newline = true
-tab_width = 4
-trim_trailing_whitespace = true
-
-; Supported By A Limited Number of Editors
-max_line_length = 120
-
-[*.{css,html,js,json,jsonc,jsx,vim,zsh}]
-indent_size = 2
-tab_width = 2
-
-; see https://github.com/CppCXY/EmmyLuaCodeStyle
-[*.lua]
-indent_size = 2
-tab_width = 2
-
-quote_style = double
-space_after_comment_dash = true
-trailing_table_separator = smart
-
-; The following formatting flags closely resemble Google's shell style defined
-; in https://google.github.io/styleguide/shellguide.html:
-[*.sh]
-indent_size = 2
-tab_width = 2
-
-binary_next_line = true
-switch_case_indent = true
+[*.{sh,zsh}]
+simplify=true
+indent=2
+binary_next_line=true
+case_indent=true
